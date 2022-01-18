@@ -1,0 +1,15 @@
+$pink: #daa49a;
+$charcoal: #373f51;
+$blue: #58a4b0;
+$lightBlue: #a9bcd0;
+$lightGrey: #d8dbe2;
+
+// For grid system
+$grid-columns: 12;
+$breakpoints: (
+  "xs": 0,
+  "sm": 480px,
+  "md": 720px,
+  "lg": 960px,
+  "xl": 1200px,
+);
